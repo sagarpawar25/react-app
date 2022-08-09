@@ -43,9 +43,9 @@ class App extends Component {
 
     contactlist:[
       { id: 1, type:"address", value: " Malad, Mumbai -400097, India", icon:"fa fa-map-marker"},
-      { id: 2, type:"call", value: " Call us on +91-9876-654322", icon:"fa fa-phone"},
+      { id: 2, type:"call", value: " Call us on +91-9876543210", icon:"fa fa-phone"},
       { id: 3, type:"chat", value: " Chat on Whatsapp 9876543210", icon:"fa fa-whatsapp"},
-      { id: 4, type:"mail", value: " Mail us patilsumit674@gmail.com", icon:"fa fa-envelope"},
+      { id: 4, type:"mail", value: " Mail us demo@gmail.com", icon:"fa fa-envelope"},
     ],
 
     customerslieder:{
