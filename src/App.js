@@ -90,7 +90,7 @@ class App extends Component {
     },
   ],},
     contact:{
-    call:"Call us on +91-9876-654322",
+    call:"Call us on +91-9876543210",
     chat:"Chat on Whatsapp 9876543210",
     },
     models:
